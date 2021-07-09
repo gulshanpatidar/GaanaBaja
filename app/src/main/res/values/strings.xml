@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GaanaBaja</string>
+    <string name="music_image_description">This is the Image Associated with song.</string>
+    <string name="play_button_desc">Play/Pause Music Button</string>
+    <string name="previous_button_desc">Previous song</string>
+    <string name="next_button_desc">Next song</string>
 </resources>
